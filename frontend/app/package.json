@@ -1,0 +1,18 @@
+{
+  "name": "app_frontend_axios",
+  "version": "1.0.0",
+  "description": "Frontend utilizando o axios",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundleWatch": "watchify index.js -o bundle.js"
+  },
+  "author": "Mateus Rangel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "1.6.8",
+    "browserify": "17.0.0",
+    "watchify": "4.0.0"
+  }
+}

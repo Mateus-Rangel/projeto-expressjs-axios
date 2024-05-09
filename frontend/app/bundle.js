@@ -1,0 +1,1 @@
+console.error("Error: Parsing file C:\\Users\\mateu\\OneDrive\\Documentos\\Projetos de programacao\\projeto expressjs axios\\frontend\\app\\index.js: 'import' and 'export' may appear only with 'sourceType: module' (2:0)");
